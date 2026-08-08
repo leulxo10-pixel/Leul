@@ -1,0 +1,6 @@
+{
+  "name": "LEUL XO Business",
+  "description": "Futuristic digital services platform for TikTok coins, Ethio Telecom packages, Telegram Premium, Visa cards, and USDT crypto exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
